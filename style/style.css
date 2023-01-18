@@ -56,11 +56,11 @@ canvas.particles-js-canvas-el{
 }
 .nav-section .navbar-nav .nav-link:hover::before {
     content: '' ;
-    width:17px ;
-    height: 2px;
-    background-color: #fff;
+    width:20px ;
+    height: 4px;
+    background-color: #F87652;
     position: absolute;
-    bottom: 7px;
+    bottom: 5px;
  
 }
 
@@ -187,6 +187,7 @@ canvas.particles-js-canvas-el{
 
     .main-section{
         margin: 75px 0px;
+        margin-bottom: -10px;
 
     }
     .main-section .row h1{
@@ -286,6 +287,7 @@ canvas.particles-js-canvas-el{
 }
 
 hr{
+    border-style: none;
     margin: 0px;
     border: 2px solid #F87652;
     width: 6rem;
@@ -401,6 +403,69 @@ hr{
 }
 
 
+
+
+  /*---------------portfolio part----------------------- */
+
+
+  .Portfolio-section{
+    padding-bottom: 150px;
+    padding-top: 40px;
+  }
+
+
+  .protfolio-img{
+    margin: 5px 0px;
+  }
+
+  .sub-heading{
+    position: relative;
+    top: 29px;
+
+  }
+
+
+ /*---------------Blog-Section--------------------*/
+
+ .blogs-section{
+    background-color: #282A39;
+    padding-bottom: 170px;
+    padding-top: 90px;
+
+ }
+
+ .card{
+    background-color: #232432;
+ }
+
+ .card:hover{
+    animation: pulse;
+    animation-duration: 0.5s;
+
+ }
+
+ .title{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.date{
+    font-size: 11px;
+}
+
+.date span{
+    color: #F87652;
+}
+
+.txt{
+    font-size: 13px;
+    color: #bbbbbb;
+}
+
+.read-more{
+    color: #F87652;
+    font-size: 13px;
+}
 
 
 
