@@ -231,7 +231,7 @@ canvas.particles-js-canvas-el{
 
     .main-section .row img{
         margin-left: 0px;
-        margin-bottom: 120px;
+        margin-bottom: 115px;
    
     
     }
@@ -414,9 +414,9 @@ hr{
   }
 
 
-  .protfolio-img{
+  /* .protfolio-img{
     margin: 5px 0px;
-  }
+  } */
 
   .sub-heading{
     position: relative;
@@ -436,6 +436,7 @@ hr{
 
  .card{
     background-color: #232432;
+    margin-bottom: 15px;
  }
 
  .card:hover{
@@ -467,5 +468,82 @@ hr{
     font-size: 13px;
 }
 
+/* -------------------------Contact-section------------------------*/
+
+.contact-section{
+    background-color: #282A39;
+    padding:170px 0px;
+
+}
+.contact-section .heading{
+    font-weight: 600;
+    font-size: 50px;
+
+}
+
+.contact-section .txt{
+    color: #bbbbbb;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+.contact-section form .form-control{
+    background: #ffffff24;
+    border:  1px solid #c4c4c4;
+    border-radius: 0px;
+    color: white;
+    
+}
+
+.form-group{
+    margin: 13px 0px;
+}
+
+.contact-section form button{
+    background: #F87652;
+    border: 2px solid #F87652;
+    color: #fff;
+    width: 100px;
+    font-size: 15px;
+}
+
+.contact-section form button:hover{
+    animation: swing;
+    animation-duration: 0.5s;
+
+}
+
+.contact-section ul li{
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 12px;
+
+}
+
+.icon{
+    color: #F87652;
+}
+
+/*----------------------------------- Responsive Part */
+
+@media(max-width:991px) and (min-width:360px)
+{
+    .contact-section .heading{
+        
+        font-size: 42px;
+    
+    }
+
+     .contact-section .change-map{
+        margin-left: -26px;
+        
+    }
+
+    .contact-section{
+       
+        padding-top: 0px;
+    
+    }
+}
 
 
