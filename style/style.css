@@ -247,7 +247,7 @@ p {
 
     .main-section .row img {
         margin-left: 0px;
-        margin-bottom: 115px;
+        margin-bottom: 150px;
 
 
     }
@@ -564,8 +564,12 @@ hr {
     }
 
     .contact-section .change-map {
-        margin-left: -13px;
-        height: 290px;
+        height: 248px;
+        width: 300px;
+        margin: 0px 5px;
+    }
+
+    .contact-section .set-width {
         width: 336px;
     }
 }
