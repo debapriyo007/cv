@@ -65,7 +65,6 @@ canvas.particles-js-canvas-el {
     background-color: #F87652;
     position: absolute;
     bottom: 5px;
-
 }
 
 /* ---------------------Main-section------------------ */
@@ -572,4 +571,93 @@ hr {
     .contact-section .set-width {
         width: 336px;
     }
+}
+
+
+
+/* ---------------------------Footer-Section-------------------- */
+
+
+.Footer-section {
+    border-top: 0.1px solid #bbbbbb;
+    padding: 40px 0px;
+
+}
+
+.Footer-section .navbar-brand {
+    font-size: 30px;
+}
+
+.Footer-section p {
+    margin-top: 13px;
+    color: #bbbbbb;
+    font-size: 12px;
+}
+
+.Footer-section .logo-area .animate {
+    color: #F87652;
+    font-size: 17px;
+    border: 2px solid #F87652;
+    padding: 10px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    border-radius: 100%;
+    margin-right: 5px;
+
+}
+
+.Footer-section .logo-area .animate:hover {
+    animation: swing;
+    animation-duration: 0.5s;
+    background-color: #fff;
+}
+
+.Footer-section .row .column .heading {
+    font-weight: 400 !important;
+    color: #fff;
+    font-size: 21px;
+
+}
+
+.Footer-section .list-group .list-group-item {
+    margin: -3px 0px;
+    color: #fff;
+    transition: 0.5s !important;
+}
+
+.Footer-section .list-group .list-group-item:hover i {
+    padding-right: 10px;
+}
+
+.Footer-section .list-group .list-group-item i {
+    font-size: 10px;
+    color: #F87652;
+    transition: 0.5s;
+}
+
+/* ---------------Responsive-Part */
+
+@media(max-width:991px) and (min-width:360px) {
+    .Footer-section .links {
+        margin-bottom: 30px;
+
+
+    }
+
+    .Footer-section .row .column .heading {
+        font-size: 17px !important;
+    }
+
+    .Footer-section .list-group .list-group-item {
+        font-size: 13px;
+
+    }
+
+    .Footer-section .list-group {
+        margin-bottom: 30px;
+    }
+
 }
