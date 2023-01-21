@@ -87,17 +87,7 @@ p {
     margin-bottom: 15px;
 }
 
-/* .main-section .row h3::before{
-    content: '';
-    position: absolute;
-    text-align: center;
-    top: 10px;
-    width: 90px;
-    height: 2px;
-    background-color: #fff;
-    margin-left: 6px;
-    
-} */
+
 
 .main-section .row h1 {
     font-size: 65px;
@@ -106,7 +96,7 @@ p {
 
 .main-section .row h2 {
     font-size: 20px;
-    font-weight: 100;
+    font-weight: 400;
     margin: 8px 0px;
 
 }
@@ -630,7 +620,7 @@ hr {
 }
 
 .Footer-section .list-group .list-group-item i {
-    font-size: 10px;
+    font-size: 15px;
     color: #F87652;
     transition: 0.5s;
 }
@@ -642,6 +632,10 @@ hr {
     font-size: 13px;
 
 }
+
+
+
+
 
 /* ---------------Responsive-Part */
 
