@@ -3,7 +3,7 @@
 ## This is my own  CV.
 
 <h2 align="center">
-  <img src="#" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/debapriyo007/cv/blob/main/readme_img/ezgif.com-gif-maker.gif?raw=true" alt="Simplefolio" width="600px" />
   <br>
 </h2>
 
