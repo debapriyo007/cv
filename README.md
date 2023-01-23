@@ -1,13 +1,13 @@
-# My CV ⚡️ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#) 
+# My CV ⚡️ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/debapriyo007/cv/blob/main/LICENSE) 
 
-## This is my own  CV.
+## This is my own  CV⚡️
 
 <h2 align="center">
   <img src="https://github.com/debapriyo007/cv/blob/main/readme_img/ezgif.com-gif-maker.gif?raw=true" alt="Simplefolio" width="600px" />
   <br>
 </h2>
 
-## Features
+## Features 
 
 
 ⚡️ One Page Layout\
@@ -17,7 +17,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
- To view my cv: **[click here](#)**
+ To view my cv: **[click here](https://debapriyo007.github.io/cv/)**
 
 ---
 
