@@ -1,4 +1,7 @@
-# My CV ⚡️ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/debapriyo007/cv/blob/main/LICENSE) 
+# My CV ⚡️ ![repo-size](https://img.shields.io/github/repo-size/debapriyo007/cv?color=orange) ![repo-size](https://img.shields.io/github/directory-file-count/debapriyo007/cv?color=orange) ![repo-size](https://img.shields.io/github/last-commit/debapriyo007/cv?color=orange) ![repo-size](https://img.shields.io/github/license/debapriyo007/cv?color=orange) ![repo-size](https://img.shields.io/github/languages/top/debapriyo007/cv?color=orange) 
+
+
+
 
 ## This is my own  CV⚡️
 
